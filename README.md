@@ -1,2 +1,2 @@
 # Thesis-1
-Optimization in Machine Learning
+This is my 1st thesis during studying at HUST
